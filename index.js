@@ -44,6 +44,7 @@ const searchMessage = () => {
     }
   });
 };
+
 // search chat
 messageSearch.addEventListener("keyup", searchMessage);
 
