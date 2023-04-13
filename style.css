@@ -306,6 +306,7 @@ main .container .left .profile {
   z-index: 2;
 }
 
+
 .middle .stories .story:nth-child(1) {
   background: url(./images/story-1.jpg) no-repeat center center/cover;
 }

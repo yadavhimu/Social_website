@@ -16,6 +16,7 @@ const changeActiveItem = () => {
   });
 };
 
+
 menuItems.forEach((item) => {
   item.addEventListener("click", () => {
     changeActiveItem();
