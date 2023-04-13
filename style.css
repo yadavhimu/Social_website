@@ -334,6 +334,7 @@ main .container .left .profile {
   border: 3px solid var(--color-primary);
 }
 
+
 .middle .create-post {
   width: 100%;
   display: flex;
