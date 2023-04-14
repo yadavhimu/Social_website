@@ -3,7 +3,7 @@
 
 ## Features
 ⚡️ Fully Responsive\]
-⚡️ Valid HTML5 & CSS3 $JavaScript
+⚡️ Valid HTML5 & CSS3 &JavaScript
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
